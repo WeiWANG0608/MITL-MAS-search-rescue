@@ -1,5 +1,5 @@
-# Decentralized Multi-agent Search and Rescue under MITL Specifications and Communication Constraints
-This repository provides the implementation and case studies for the paper "Decentralized Multi-agent Search and Rescue under MITL Specifications and Communication Constraints".
+# Decentralized Multi-agent Coordination under MITL Tasks and Communication Constraints.
+This repository provides the implementation and case studies for the paper "Decentralized Multi-agent Coordination under MITL Tasks and Communication Constraints".
 
 ## Installation
 
